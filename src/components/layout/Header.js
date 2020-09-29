@@ -41,7 +41,7 @@ class Header extends Component {
             <Link
               className="nav-item nav-link"
               style={{ color: "white" }}
-              to="/add"
+              to="/contact/add"
             >
               <i className="fas fa-plus" style={{ padding: "5px" }}></i>
               Add Contact
