@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple CRUD Contact Manager made with React, Context API, some SCSS and currently getting data from <a href="https://jsonplaceholder.typicode.com/">JSONPlaceholder</a>.
 
 ## Available Scripts
 
