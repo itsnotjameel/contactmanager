@@ -52,7 +52,6 @@ class Contact extends Component {
                       marginRight: "1rem",
                       color: "black",
                     }}
-                    onClick={toggleIsOpen}
                   ></i>
                 </Link>
               </h4>
